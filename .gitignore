@@ -1,2 +1,4 @@
 api_venv/
 .env
+.terraform/
+terraform.tfstate.d/
